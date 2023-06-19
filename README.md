@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @steve-chew. I'm a freelancer, a subtitle translator by trade.
+- 👋 Hi, I’m @steve-chew, a freelance subtitle translator.
 - 👀 I’m interested in GNU/Linux, scripting and free software movement.
 - 🌱 I’m currently learning markdown language, translation studies and anything related to free software movement.
 - 💞️ I’m looking to collaborate on subtitle translation.
