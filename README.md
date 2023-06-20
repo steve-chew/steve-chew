@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @steve-chew, a freelance subtitle translator.
+- 👋 Hi, I’m @steve-chew, a freelance subtitle translator (from English to Simplified Chinese).
 - 👀 I’m interested in GNU/Linux, scripting and free software movement.
 - 🌱 I’m currently learning markdown language, translation studies and anything related to free software movement.
 - 💞️ I’m looking to collaborate on subtitle translation.
