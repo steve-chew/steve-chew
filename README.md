@@ -15,6 +15,8 @@ HARDWARE
 -
 SOFTWARE
 ---
+- OS: Arch Linux x86_64
+- Wine-8.10 for MS Windows-based applications
 BOOKS  
 ---
 - 《平面国》(中文繁体版) 2010 星月出版 翻译者：张秉祖 [PDF電子書](https://drive.google.com/file/d/12BW8JKbLGGI2kHmLF1WHwkfks4YP5t7Z/view?usp=sharing) ISBN 978-986-08-1825-3
