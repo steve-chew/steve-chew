@@ -23,5 +23,6 @@ BOOKS
 - 《平面国》(中文繁体版) 2010 星月出版 翻译者：张秉祖 [PDF電子書](https://drive.google.com/file/d/12BW8JKbLGGI2kHmLF1WHwkfks4YP5t7Z/view?usp=sharing) ISBN 978-986-08-1825-3
 - 
 TRAINING
+---
 - <i>Power Up Your Translation Work with ChatGPT: Enhanced Introductory Techniques for Today's Translators by Steven S. Bammel, PhD. June 21, 2023, from 14:00 to 15:00 GMT.</i>
 
