@@ -26,4 +26,8 @@ BOOKS
 TRAINING
 ---
 - <i>Power Up Your Translation Work with ChatGPT: Enhanced Introductory Techniques for Today's Translators by Steven S. Bammel, PhD. June 21, 2023, from 14:00 to 15:00 GMT.</i>
+  
+WATCHLIST
+---
+Moved to [here](https://www.imdb.com/user/ur167283985/watchlist).
 
