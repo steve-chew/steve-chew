@@ -21,6 +21,7 @@ SOFTWARE
 BOOKS  
 ---
 - 《平面国》(中文繁体版) 2010 星月出版 翻译者：张秉祖 [PDF電子書](https://drive.google.com/file/d/12BW8JKbLGGI2kHmLF1WHwkfks4YP5t7Z/view?usp=sharing) ISBN 978-986-08-1825-3
+- [中] 马旭：《善居》，长沙，湖南文艺出版社，2011，ISBN 978-7-5404-5321-3
 - 
 TRAINING
 ---
