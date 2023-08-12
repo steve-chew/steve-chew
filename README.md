@@ -29,5 +29,5 @@ TRAINING
   
 WATCHLIST
 ---
-Moved to [here](https://www.imdb.com/user/ur167283985/watchlist).
+Moved to [here](https://www.imdb.com/user/ur167283985/watchlist) permanently.
 
